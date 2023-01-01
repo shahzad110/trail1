@@ -157,7 +157,7 @@ if __name__=='__main__':
         DT_sh_K = 11.11
         mdot_r, power, h2, P2, Q_amb  = Comp.compressor_calculation(T_evap, T_cond, DT_sh_K)
         print("mdot_r",mdot_r, "W_dot", power, "houtr",h2, "P2", P2, "Q_amb", Q_amb) 
-        # I added a comment here from my computer
+        # I deleted comment from here which was added from laptop. 
 
 
 
